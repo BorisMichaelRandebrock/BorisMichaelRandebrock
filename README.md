@@ -7,7 +7,7 @@
 - 📫 you can contact me @ boris@randebrock.com or on my mobile 603 803 500 
 
 
-
+---------------------------------------------------------------------------
 
 ### :hammer_and_wrench: Languages and Tools :
 
@@ -39,13 +39,16 @@
    
 </div>
 
+-------------------------------------------------------------------------------
 
-
-
+<div align="center">
 ### :fire: My Stats :
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=BorisMichaelRandebrock&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
+ ------------------------------------------------------------------------------  
+     
+     
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
