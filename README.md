@@ -4,7 +4,7 @@
 - 👀 I’m interested in IT 💻 && music 🎸
 - 🌱 I’m currently learning programming in ISDI coders  
 - 💞️ I’m looking to collaborate on projects of all sorts...
-- 📫 you can contact me @ boris@randebrock.com or on my mobile 603 803 500 
+- 📫 you can contact me @ boris@randebrock.com 
 
 
 ---------------------------------------------------------------------------
