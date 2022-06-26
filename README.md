@@ -1,4 +1,5 @@
-About me:<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif"
+## 👨‍💻 About me:
+<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif"
      alt="black cat with laptop" align="right" width="230" height="170">
 
 👋 Hi, I’m Boris Michael Randebrock &nbsp;
@@ -8,7 +9,8 @@ After having spent the past four months studying at Isdi Coders, I can today pre
 Still practising a lot to fix all those concepts and technologies I just learned.&nbsp;
 
 I feel prepared, though, to face any professional challenge offering the most of my capabilities, energy and time to continue learning and rapidly growing. 
-- 📫 you can contact me @ boris@randebrock.com 
+
+📫 you can contact me @ boris@randebrock.com 
 
 
 ---------------------------------------------------------------------------
