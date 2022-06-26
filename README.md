@@ -43,8 +43,10 @@
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=BorisMichaelRandebrock&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
+    
  ------------------------------------------------------------------------------  
-     
+  
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BorisMichaelRandebrock)](https://github.com/anuraghazra/github-readme-stats)
      
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
