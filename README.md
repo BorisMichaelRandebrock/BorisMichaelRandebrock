@@ -7,7 +7,7 @@ After having spent the past four months studying at Isdi Coders, I can today pre
 
 Still practising a lot to fix all those concepts and technologies I just learned.&nbsp;
 
-I feel prepared, though, to face any professional challenge offering the most of my capabilities, energy and time to keep on learning and rapidly growing. 
+I feel prepared, though, to face any professional challenge offering the most of my capabilities, energy and time to continue on learning and rapidly growing. 
 - 📫 you can contact me @ boris@randebrock.com 
 
 
@@ -18,7 +18,7 @@ I feel prepared, though, to face any professional challenge offering the most of
 <div>
    
    <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/vscode/vscode-original-wordmark.svg" title="VSCode" alt="VSCode" width="40" height="40"/>&nbsp;
-    <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/eslint/eslint-original-wordmark.svg" title="Eslint" alt="Eslint" width="40" height="40"/>&nbsp;
+    <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/eslint/eslint-original.svg" title="Eslint" alt="Eslint" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/typescript/typescript-original.svg" title="Typescript" alt="Typescript" width="40" height="40"/>&nbsp;
