@@ -1,9 +1,13 @@
-- 👋 Hi, I’m @BorisMichaelRandebrock <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif"
+About me:<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif"
      alt="black cat with laptop" align="right" width="230" height="170">
 
-- 👀 I’m interested in IT 💻 && music 🎸
-- 🌱 I’m currently learning programming in ISDI coders  
-- 💞️ I’m looking to collaborate on projects of all sorts...
+👋 Hi, I’m Boris Michael Randebrock &nbsp;
+
+After having spent the past four months studying at Isdi Coders, I can today present myself as a Full Stack Web Developer capable of building fully functional Web Apps.&nbsp;
+
+Still practising a lot to fix all those concepts and technologies I just learned.&nbsp;
+
+I feel prepared, though, to face any professional challenge offering the most of my capabilities, energy and time to keep on learning and rapidly growing. 
 - 📫 you can contact me @ boris@randebrock.com 
 
 
