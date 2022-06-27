@@ -1,8 +1,9 @@
 👋 Hi, I’m Boris Michael Randebrock &nbsp; 
-
-### 👨‍💻 About me:
+### 👨‍💻 About me:        
 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif"
      alt="black cat with laptop" align="right" width="230" height="170">
+
+
 
 
 
@@ -13,6 +14,17 @@ Still practising a lot to fix all those concepts and technologies I just learned
 I feel prepared, though, to face any professional challenge offering the most of my capabilities, energy and time to continue learning and rapidly growing. 
 
 
+
+
+&nbsp;
+ <div id="badges" align="center">
+  <a href="https://www.linkedin.com/in/boris-michael-randebrock/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+      <a href="mailto:boris@randebrock.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</div>
 
 ---------------------------------------------------------------------------
 
