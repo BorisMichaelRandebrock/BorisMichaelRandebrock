@@ -70,6 +70,9 @@ I feel prepared, though, to face any professional challenge offering the most of
   <a href="https://www.linkedin.com/in/boris-michael-randebrock/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
+      <a href="mailto:boris@randebrock.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
 </div>
 
 <!---
