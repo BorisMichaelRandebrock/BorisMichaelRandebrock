@@ -1,6 +1,5 @@
 👋 Hi, I’m Boris Michael Randebrock &nbsp;
 ### 👨‍💻 About me:
-
 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif"
      alt="black cat with laptop" align="right" width="230" height="170">
 
