@@ -1,8 +1,10 @@
+👋 Hi, I’m Boris Michael Randebrock &nbsp;
 ### 👨‍💻 About me:
+
 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif"
      alt="black cat with laptop" align="right" width="230" height="170">
 
-👋 Hi, I’m Boris Michael Randebrock &nbsp;
+
 
 After having spent the past four months studying at Isdi Coders, I can today present myself as a Full Stack Web Developer capable of building fully functional Web Apps.&nbsp;
 
