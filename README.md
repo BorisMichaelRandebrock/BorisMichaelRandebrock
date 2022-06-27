@@ -50,10 +50,12 @@ I feel prepared, though, to face any professional challenge offering the most of
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=BorisMichaelRandebrock&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
     
- ------------------------------------------------------------------------------  
+  
   
      
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BorisMichaelRandebrock&layout=compact&theme=vision-friendly-light)](https://github.com/anuraghazra/github-readme-stats)
+     
+------------------------------
 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
@@ -61,7 +63,7 @@ I feel prepared, though, to face any professional challenge offering the most of
 
      
  <div id="badges">
-  <a href="https://www.linkedin.com/in/boris-michael-randebrock/">
+  <a href="https://www.linkedin.com/in/boris-michael-randebrock/" target="blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </div>
