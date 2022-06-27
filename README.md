@@ -63,7 +63,7 @@ I feel prepared, though, to face any professional challenge offering the most of
 
      
  <div id="badges">
-  <a href="https://www.linkedin.com/in/boris-michael-randebrock/" target="blank">
+  <a href="https://www.linkedin.com/in/boris-michael-randebrock/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </div>
