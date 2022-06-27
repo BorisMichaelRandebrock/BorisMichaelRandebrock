@@ -10,7 +10,6 @@ Still practising a lot to fix all those concepts and technologies I just learned
 
 I feel prepared, though, to face any professional challenge offering the most of my capabilities, energy and time to continue learning and rapidly growing. 
 
-📫 you can contact me @ boris@randebrock.com 
 
 
 ---------------------------------------------------------------------------
