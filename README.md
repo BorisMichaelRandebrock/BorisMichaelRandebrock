@@ -68,7 +68,7 @@ I feel prepared, though, to face any professional challenge offering the most of
      
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BorisMichaelRandebrock&layout=compact&theme=vision-friendly-light)](https://github.com/anuraghazra/github-readme-stats)
      
-
+<img src="https://github-readme-stats.vercel.app/api?username=BorisMichaelRandebrock" />
 
 
 
