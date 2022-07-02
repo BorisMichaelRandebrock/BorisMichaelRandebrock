@@ -15,7 +15,6 @@ I feel prepared, though, to face any professional challenge offering the most of
 
 
 
-
 &nbsp;
  <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/boris-michael-randebrock/" target="_blank">
