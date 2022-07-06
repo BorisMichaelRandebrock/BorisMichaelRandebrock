@@ -6,7 +6,6 @@
 
 
 
-
 After having spent the past four months studying at Isdi Coders, I can today present myself as a Full Stack Web Developer capable of building fully functional Web Apps.&nbsp;
 
 Still practising a lot to fix all those concepts and technologies I just learned.&nbsp;
