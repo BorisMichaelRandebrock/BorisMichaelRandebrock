@@ -64,17 +64,26 @@ I feel prepared, though, to face any professional challenge offering the most of
 -------------------------------------------------------------------------------
 
 <div align="center">
- :fire: My Stats :
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=BorisMichaelRandebrock&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
-
-    
-  
-  
      
+<!---
+ :fire: My Stats :
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=BorisMichaelRandebrock&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+    
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BorisMichaelRandebrock&layout=compact&theme=vision-friendly-light)](https://github.com/anuraghazra/github-readme-stats)
      
 <img src="https://github-readme-stats.vercel.app/api?username=BorisMichaelRandebrock" />
+     
+     --->
+     
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=BorisMichaelRandebrock)](https://github.com/ryo-ma/github-profile-trophy)
+
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=BorisMichaelRandebrock)  
+
+![GitHub metrics](https://metrics.lecoq.io/BorisMichaelRandebrock)  
+
+![Profile views](https://gpvc.arturio.dev/BorisMichaelRandebrock) 
 
 
 
@@ -93,8 +102,18 @@ I feel prepared, though, to face any professional challenge offering the most of
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </div>
+  <a href="https://github.com/BorisMichaelRandebrock" target="blank">
+ <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>
+ </a>
+     
 
+ 
 <!---
+
+
+
+
+
 <img src="https://github-readme-stats.vercel.app/api?username=BorisMichaelRandebrock" /> <= this is working 
 
 
