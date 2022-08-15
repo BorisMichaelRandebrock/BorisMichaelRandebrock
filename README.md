@@ -16,9 +16,13 @@ I feel prepared, though, to face any professional challenge offering the most of
 
 &nbsp;
  <div id="badges" align="center">
+
   <a href="https://www.linkedin.com/in/boris-michael-randebrock/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
+   <a href="https://github.com/BorisMichaelRandebrock" target="blank">
+ <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>
+ </a>
       <a href="mailto:boris@randebrock.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
