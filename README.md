@@ -71,7 +71,6 @@ I feel prepared, though, to face any professional challenge offering the most of
      
      --->
      
-
 [![trophy](https://github-profile-trophy.vercel.app/?username=BorisMichaelRandebrock)](https://github.com/ryo-ma/github-profile-trophy)
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=BorisMichaelRandebrock)  
