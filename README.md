@@ -110,6 +110,7 @@ I feel prepared, though, to face any professional challenge offering the most of
  
 <!---
 
+
 <img src="https://github-readme-stats.vercel.app/api?username=BorisMichaelRandebrock" /> <= this is working 
 
 
