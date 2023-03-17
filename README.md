@@ -3,7 +3,7 @@
 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif"
      alt="black cat with laptop" align="right" width="230" height="170">
 
-After having spent the past eight months studying at Isdi Coders, I can today present myself as a Full Stack Web Developer capable of building fully functional Web Apps.&nbsp;
+After having spent the past year studying at Isdi Coders and Ironhack, I can today present myself as a Full Stack Web Developer capable of building fully functional Web Apps.&nbsp;
 
 Still practising a lot to fix all those concepts and technologies I just learned.&nbsp;
 
