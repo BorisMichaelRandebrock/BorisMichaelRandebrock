@@ -3,11 +3,13 @@
 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif"
      alt="black cat with laptop developing" align="right" width="230" height="170">
 
-After having spent the past 2 years studying at Isdi Coders, Ironhack & still studying @ 42Barcelona, I can present myself today as a Full Stack Web Developer capable of building fully functional Web Apps and facing all kind of programming challenges.&nbsp;
+After dedicating the past few years to intensive preparation — studying at ISDI Coders, Ironhack, and 42 Barcelona, as well as pursuing self-directed learning — I am now a Software Developer capable of building fully functional web applications (Frontend & Backend), modernizing legacy code, and tackling a wide range of programming challenges.
 
-Still practising and learning on a daily base, to fix all those concepts and technologies.&nbsp;
+Currently, I’m also gaining freelance experience upgrading PHP/CodeIgniter applications with Docker and Vagrant, further strengthening my backend and deployment skills.
 
-I feel prepared, though, to face any professional challenge offering the most of my capabilities, energy and time to continue learning and rapidly growing. 
+I continue to practice and learn daily, consolidating my knowledge of frontend and backend technologies, testing, CI/CD workflows, and real-time applications.
+
+I feel ready to take on professional challenges, offering my full energy, dedication, and eagerness to keep learning and growing quickly in the IT sector.
 
 &nbsp;
  <div id="badges" align="center">
